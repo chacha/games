@@ -9,11 +9,11 @@ Place a single red bucket full of water into the middle of the game area. Place 
 
 Game Play
 ---------------
-Gather all the teams to the center bucket and explain the game. Each team will have to break open their frozen shirt and wear the shirt in order for them to be allowed to run to the center bucket and get a cup of water. 
+The goal of the game is to fill your colored buckets to the fill line with water. You will do this by running back and forth with cups from the center buckets to your colored buckets. Your team will have 5 cups, and everyone on the team must have ran at least once anyone can run a second time.
 
-The goal of the game is to fill your individual bucket with water to the fill line first. All team members must participate once before anyone can go again.
+However, there is a twist. No one on your team can start running unless they have one of your colored T-Shirts. The shirts are frozen, so you must first break them a part and then your runners must put them on before they go and fill up their cup of water.
 
-The winning team is the team that fills the bucket to the line first. 
+After one team member gets the cup of water, they must take off the shirt and give it to someone else. You must have your shirt completely on before you can start running. You will have 5 shirts, so after you get the first one, you might want to start breaking open the others as well.
 
 Game Play Maths
 -----------------------
