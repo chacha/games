@@ -44,8 +44,8 @@ If you were to time this by 5 cups, you'd get 810oz of water or 6.3 gallons of w
 Supply List
 ------------------------
 
-1 goal bucket for each team
-1 filling bucket for each team
+1 goal bucket for each team  
+1 filling bucket for each team  
 
 1 t-shirt and 1 cup for each team, times the number of runners available to every team.
 For instance, if each team can have 3 runners, it is 3 shirts and 3 cups per team.
