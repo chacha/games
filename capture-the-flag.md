@@ -22,5 +22,5 @@ After a ball is scored, the ball is put back in the goal zone.
 Supplies
 ----------------
 40 pennies  
-18 cones (4 per zone + 1 for the middle post of the goal zone)
+18 cones (4 per zone + 1 for the middle post of the goal zone)  
 2 balls
