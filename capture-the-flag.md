@@ -9,10 +9,14 @@ Divide the teams evenly into two groups. One set of players will get a set of pe
 
 Game Play
 ---------------
-Crossing into the other teams zone means you can be tagged. If you are tagged you must go to the **jail zone** until a team member that has not been tagged runs across and tags you. When you have been tagged in jail, you are allowed a free walk back to your side of the field.
+In this game, the field is divided up into two sides. Your goal is to bring the other team's ball back to your side. 
 
-Each side has a **goal zone**. You can be in the goal zone for a total of 10 seconds without anyone on the opposite team being allowed to enter the zone and tag you.  If you get tagged while having the ball from the goal zone, the ball gets reset to the goal zone.
+When you cross over onto the other side of the field, you can be tagged by any member of the other team. If you are tagged, you must go directly to their **jail zone**. When you are in jail, a team member can run and tag you and both of you get a free walk back to your side of the field. If the game leader yells **Jailbreak!**, anyone in jail is allowed a free walk back to their side.
 
-You **score** by either running or tossing the ball to your side of the field. If you throw the ball, a team member must catch the ball or it does not count. If for any reason the ball is dropped, it must be reset to the goal zone. After the ball is scored, it is reset to the goal zone.
+The ball is located in the **goal zone**. When you run into the goal zone, people from the opposite team cannot tag you for 10 seconds. After 10 seconds, you must leave the goal zone or your opponents can run in and tag you. 
 
-If the game leader yells **Jailbreak!**, anyone in jail is allowed a free walk back to their side.
+When you have the ball, if you get tagged the ball must be reset back to the goal zone before anyone else can grab it. If you throw the ball to try to make it to your side, one of your team mates must catch it for it to count. If they drop it, it must be put back in the goal zone.
+
+After a ball is scored, the ball is put back in the goal zone.
+
+
