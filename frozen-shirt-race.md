@@ -18,6 +18,16 @@ The winning team is the team that fills the bucket to the line first.
 Game Play Maths
 -----------------------
 
+| Variable        | Value | Description                                   |
+| ---------       | ----- | --------------------------------------------- |
+| 1 full run      | 20s   | Time to make a round trip to the water bucket | 
+| Game Time       | 420s  | Total game time in seconds                    |
+| Runs per game   | 27    | Number of runs available in a full game       |
+| Size of cup     | 8oz   | Size of cup being used                        |
+| Spill allowance | 2oz   | Buffer to allow for spillage                  |
+| Load per run    | 6oz   | Size of cup minus spill allowance             |
+| Water transfer  | 162oz | Amount of water able to be transferred        |
+
 1 run = 20 seconds
 Each action of putting on the shirt, running to the main water container, filling the cup, running back, and taking off the shirt should take this number of seconds.
 
@@ -25,9 +35,8 @@ Total game time  = 7 minutes
 7 minutes * 60 seconds/minute = 420 seconds
 420 seconds / 20 seconds = 27 runs per shirt.
 
-5 shirts * 27 runs per shirt = 135 total runs.
-That means that a single team should have to fill up 135 cups worth of water to win the race.
-
 Using Red Solo Cups, each run would transfer about 6oz of water (cups hold 8oz and we're allowing for spilling).
 
-That means that 135 cups times 6oz = 810oz of water for a 7 minute run. That's 6.3 gallons of water.
+That means that 27 cups times 6oz = 162oz of water for a 7 minute run. That's 1.2 gallons of water.
+
+If you were to time this by 5 cups, you'd get 810oz of water or 6.3 gallons of water.
