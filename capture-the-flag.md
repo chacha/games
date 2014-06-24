@@ -11,7 +11,7 @@ Game Play
 ---------------
 In this game, the field is divided up into two sides. Your goal is to bring the other team's ball back to your side. 
 
-When you cross over onto the other side of the field, you can be tagged by any member of the other team. If you are tagged, you must go directly to their **jail zone**. When you are in jail, a team member can run and tag you and both of you get a free walk back to your side of the field. If the game leader yells **Jailbreak!**, anyone in jail is allowed a free walk back to their side.
+If someone from the other team crosses onto your side, you can tag them. If you tag someone, you must walk them to the **jail zone**, and can return to play once you have touched the jail zone. If you are tagged and are in jail, you cannot leave until a team member runs and tags you, and at that point both of you get a free walk back to your side of the field. If the game leader yells **Jailbreak!**, anyone in jail is allowed a free walk back to their side. 
 
 The ball is located in the **goal zone**. When you run into the goal zone, people from the opposite team cannot tag you for 10 seconds. After 10 seconds, you must leave the goal zone or your opponents can run in and tag you. 
 
