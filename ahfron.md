@@ -7,10 +7,18 @@ Place four colored buckets on one end of the game area. Have all players start o
 
 Game Play
 ---------------
-Upon entering the game area, players can tag **card tossers**. Every time a card tosser is tagged, they throw out 3-4 cards into the air. Players can grab one card at a time to bring to their colored bucket to score points.
+The goal of the game is to get as many cards as possible into your bucket. You can get cards to tagging a **card tosser** wearing a funny hat. Whenever you tag the card tosser, they will throw cards into the air. You can pick up only one card at a time and bring it back to your colored bucket.
 
-While players are trying to grab cards **taggers** will take socks stuffed with another sock and swing it around trying to tag players. When a player is tagged, they must sit down on the ground and not move. **Medics** will go around and tap players who have been tagged. After a tagged player has been tapped they may continue to move.
+However, while you are trying to do this some leaders will be running around with **ahfrons**. If you get hit by the spinning ahfron, you must sit down where you were tagged.
 
-Scoring
-----------
-Every card get one point. The team with the most cards in their bucket at the end of the game wins.
+When you are tagged, the only way to become untagged is for a **medic** to tap you with one of the pool noodles. As soon as you are tapped, you can get up and continue your journey to get the card into the bucket. 
+
+Whoever gets the most cards into their bucket wins the game.
+
+Supply List
+------------------
+
+Decks of cards  
+Pool noodles  
+Funny hats (optional)  
+Ahfrons (socks with other socks stuffed inside them)  
