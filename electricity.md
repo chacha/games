@@ -17,4 +17,4 @@ line, the last person runs to grab the object. The team that grabs the object fi
 
 The first team that reaches 10 points wins the game.
 
-Credit to Great Group Games: http://www.greatgroupgames.com/electricity.htm)
+Credit to Great Group Games: http://www.greatgroupgames.com/electricity.htm
